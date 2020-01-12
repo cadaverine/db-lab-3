@@ -1,4 +1,4 @@
-// Скалярная функция
+-- Скалярная функция
 
 CREATE OR REPLACE FUNCTION is_adult(birth_date DATE)
 RETURNS boolean AS $$
